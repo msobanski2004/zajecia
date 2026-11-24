@@ -5,26 +5,64 @@ date: "2026-11-24"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# Imię Nazwisko
 
-## R Markdown
+**Email:** twoj.email@example.com
+**Telefon:** +48 123 456 789
+**Lokalizacja:** Miasto, Kraj
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Podsumowanie
+Krótki, zwięzły opis Twojego doświadczenia, umiejętności i celów zawodowych.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Doświadczenie zawodowe
 
-```{r cars}
-summary(cars)
-```
+### Nazwa Stanowiska | Firma
+*Okres zatrudnienia (np. Styczeń 2020 - Obecnie)*
 
-## Including Plots
+- Kluczowe osiągnięcia i obowiązki
+- Opis projektów i odpowiedzialności
+- Wymierne efekty pracy (np. zwiększenie wydajności o X%)
 
-You can also embed plots, for example:
+### Poprzednie Stanowisko | Inna Firma
+*Okres zatrudnienia*
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+- Główne zadania
+- Osiągnięcia
+- Zdobyte umiejętności
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Edukacja
+
+### Tytuł Studiów | Nazwa Uczelni
+*Rok ukończenia*
+
+- Specjalizacja
+- Średnia ocen
+- Istotne osiągnięcia akademickie
+
+## Umiejętności
+
+- **Techniczne:** Python, R, SQL, Git
+- **Miękkie:** Komunikacja, praca zespołowa, rozwiązywanie problemów
+- **Języki:** Polski (ojczysty), Angielski (B2)
+
+## Certyfikaty
+
+- Nazwa Certyfikatu, Instytucja, Rok
+- Kolejny Certyfikat
+
+## Projekty
+
+### Nazwa Projektu
+- Krótki opis
+- Technologie użyte
+- Link do repozytorium (opcjonalnie)
+
+## Zainteresowania
+
+- Programowanie
+- Analiza danych
+- Fotografia
+- Podróże
+
+## Referencje
+Dostępne na życzenie
